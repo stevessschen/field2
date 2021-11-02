@@ -1,7 +1,8 @@
 #cv2==3.3.0
 pip
-opencv-python
-libgl1-mesa-glx
+#opencv-python
+python3-opencv
+#libgl1-mesa-glx
 #keras==1.2.2
 #matplotlib==2.1.0
 #tensorflow==1.3.0
