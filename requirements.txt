@@ -1,4 +1,5 @@
 #cv2==3.3.0
+pip
 opencv-python
 keras==1.2.2
 #matplotlib==2.1.0
