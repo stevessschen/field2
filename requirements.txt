@@ -3,7 +3,8 @@ pip
 opencv-python
 #tensorflow==1.15.0
 tensorflow==2.6.1
-keras==2.1.4
+#keras==2.1.4
+keras==2.6
 wget
 #libgl1-mesa-dev
 #libgl1
