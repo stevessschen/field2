@@ -1,8 +1,8 @@
 #cv2==3.3.0
 pip
 opencv-python
-tensorflow==1.15.1
-keras==2.1.4
+tensorflow==1.15.0
+keras==1.0.8
 #tensorflow
 #keras==2.1.4
 #keras==2.6
