@@ -1,7 +1,7 @@
 #cv2==3.3.0
 pip
 opencv-python
-libgl1-mesa-dev
+#libgl1-mesa-dev
 #libgl1
 #python3-opencv
 #libgl1-mesa-glx
