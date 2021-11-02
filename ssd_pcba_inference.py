@@ -20,9 +20,9 @@ from ssd_utils import BBoxUtility
 
 ##np.set_printoptions(suppress=True)
 
-config = tf.ConfigProto()
-config.gpu_options.per_process_gpu_memory_fraction = 0.45
-set_session(tf.Session(config=config))
+##config = tf.ConfigProto()
+##config.gpu_options.per_process_gpu_memory_fraction = 0.45
+##set_session(tf.Session(config=config))
 
 voc_classes = ['x','p','t']
 NUM_CLASSES = len(voc_classes) + 1
