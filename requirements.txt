@@ -2,7 +2,7 @@
 pip
 opencv-python
 #tensorflow==1.15.0
-tensorflow==2.6.0
+tensorflow
 keras==2.1.4
 #keras==2.2.0
 #keras==2.6
