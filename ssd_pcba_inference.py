@@ -6,8 +6,8 @@ from keras.applications.imagenet_utils import preprocess_input
 from keras.backend.tensorflow_backend import set_session
 from keras.models import Model
 from keras.preprocessing import image
-import matplotlib.pyplot as plt
-import numpy as np
+#import matplotlib.pyplot as plt
+#import numpy as np
 
 import tensorflow as tf
 
@@ -15,10 +15,10 @@ from ssd import SSD300
 from ssd_utils import BBoxUtility
 
 ##%matplotlib inline
-plt.rcParams['figure.figsize'] = (8, 8)
-plt.rcParams['image.interpolation'] = 'nearest'
+##plt.rcParams['figure.figsize'] = (8, 8)
+##plt.rcParams['image.interpolation'] = 'nearest'
 
-np.set_printoptions(suppress=True)
+##np.set_printoptions(suppress=True)
 
 config = tf.ConfigProto()
 config.gpu_options.per_process_gpu_memory_fraction = 0.45
