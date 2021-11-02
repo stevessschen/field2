@@ -1,10 +1,9 @@
 #cv2==3.3.0
 pip
 opencv-python
-tensorflow==1.15.0
-#tensorflow==2.6.1
-keras==1.0.8
-#keras==2.1.4
+#tensorflow==1.15.0
+tensorflow==2.6.0
+keras==2.1.4
 #keras==2.2.0
 #keras==2.6
 wget
