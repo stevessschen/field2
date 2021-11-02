@@ -2,6 +2,7 @@
 pip
 opencv-python
 tensorflow==1.15.0
+wget
 #libgl1-mesa-dev
 #libgl1
 #python3-opencv
